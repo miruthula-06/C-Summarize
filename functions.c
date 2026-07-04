@@ -7,4 +7,4 @@ void main(){
     printf("Enter a and b value: ");
     scanf("%d %d",&c,&d);
     printf("%d",add(c,d));
-}git 
+}
